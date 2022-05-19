@@ -17,13 +17,12 @@ require (
 	github.com/google/uuid v1.1.2
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/munnerz/goautoneg v0.0.0-20120707110453-a547fc61f48d
-	github.com/onsi/ginkgo v0.0.0-20170829012221-11459a886d9c
-	github.com/onsi/gomega v0.0.0-20170829124025-dcabb60a477c
+	github.com/onsi/ginkgo/v2 v2.1.4
+	github.com/onsi/gomega v1.19.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.5.1
-	golang.org/x/tools v0.1.5 // indirect
 	google.golang.org/protobuf v1.27.1
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	k8s.io/gengo v0.0.0-20210813121822-485abfe95c7c
 	k8s.io/klog/v2 v2.2.0
